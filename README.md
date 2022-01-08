@@ -1,1 +1,2 @@
-# java-se-syllabus
+# Java-SE-syllabus
+Syllabus for Java SE
